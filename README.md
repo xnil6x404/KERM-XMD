@@ -41,10 +41,10 @@
 ## 🔧 **QUICK SETUP - SESSION_ID** 🔧  
 👉 **Don't have a SESSION_ID? Get it here by entering your phone number with country code (e.g., +237xxxxxx).**
 
-- **PAIR CODE**  
+**PAIR CODE**  
 <a href='https://kgtech-v2-session.onrender.com/pair' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/PAIR-CODE-h?color=navy&style=for-the-badge&logo=visualstudiocode'/></a></p>
 
-- **QR SCAN**
+**QR SCAN**
 <a href='https://kgtech-v2-session.onrender.com/wasiqr' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/SCAN-QR-h?color=navy&style=for-the-badge&logo=visualstudiocode'/></a></p>
 
 ---
