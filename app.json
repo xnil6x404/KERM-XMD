@@ -1,8 +1,8 @@
 {
-    "name": "Kerm_Md-V2",
+    "name": "KERM-XMD",
     "description": "Simple WhatsApp Bot🤖",
-    "logo": "https://telegra.ph/file/dc5657036b53a3613d4f7.jpg",
-    "keywords": ["Kg Tech", "Kerm Md", "Kerm_Md-V2"],
+    "logo": "https://files.catbox.moe/gqcoxn.jpeg",
+    "keywords": ["Kg Tech", "Kerm Md", "Kerm-Xmd"],
     "success_url": "/",
     "stack": "container",
   
@@ -20,7 +20,7 @@
       },
       "USER_IMAGES": {
         "description": "Menu Images",
-        "value": "https://telegra.ph/file/fa9dfa92fdbf649bc927d.jpg",
+        "value": "https://files.catbox.moe/gqcoxn.jpeg",
         "required": false
       },
   
@@ -35,12 +35,12 @@
       },
       "THUMB_IMAGE": {
         "description": "Thumbnail",
-        "value": "https://telegra.ph/file/fa9dfa92fdbf649bc927d.jpg"
+        "value": "https://files.catbox.moe/gqcoxn.jpeg"
       },
       "BOT_NAME": {
         "description": " NAME FOR BOT",
         "required": false,
-        "value": "*ᵏᵍ┘𝙺𝙴𝚁𝙼_𝙼𝙳_𝚅𝟸𖤐*"
+        "value": "𝗞𝗘𝗥𝗠-𝗫𝗠𝗗"
       },
       "TZ": {
         "description": "Put TIME_ZONE according to your location",
@@ -115,7 +115,7 @@
       },
       "PACK_NAME": {
         "description": "Put Sticker Pack_Name.",
-        "value": "*ᵏᵍ┘𝙺𝙴𝚁𝙼_𝙼𝙳_𝚅𝟸𖤐*",
+        "value": "*𝗞𝗘𝗥𝗠-𝗫𝗠𝗗",
         "required": false
       },
       "PACK_AUTHER": {
