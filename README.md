@@ -1,152 +1,99 @@
-#        Ҝ乇尺爪 爪ᗪ ᐯ2
+### 🔥❖ KERM XMD - WHATSAPP BOT ❖🔥  
+**`THE BEST WHATSAPP BOT BY KGTECH 🇨🇲`**
 
-   <a>
-                                      <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Jersey+20+Charted&size=30&pause=1000&color=F71515&width=435&lines=BOT+100%25+CAMEROUNAIS" alt="Typing SVG" /></a>   
-            
-<p align="center"> 
-<up A simple WhatsApp User Bot Coded By Rayan and Giffareno</u>
+---
+
+<p align="center">
+  <img src="https://files.catbox.moe/gqcoxn.jpeg" alt="Kerm XMD Logo" width="250"/>
 </p>
+
+---
+
 <p align="center">
-<img src="https://telegra.ph/file/6368ad7db15fce6a4dfdb.jpg"/>       
-<p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=EB+Garamond&weight=800&size=25&duration=4000&pause=1000&random=false&width=435&lines=+•__I'M+KERM-+MD__•;MULTI-DEVICE+WHATSAPP+BOT;DEVELOPED+BY+RAYAN+AND+GIFFAREO;RELEASED+DATE+07%2F7%2F2024."                               alt="Typing SVG" /></a>
-</p> 
-<p align="center">
-<a href="#"><img title="Creator" src="https://img.shields.io/badge/Creator-KG_TECH-red.svg?style=for-the-badge&logo=github"></a>
-</a>
+  <a href="#"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=FF4500&center=true&vCenter=true&width=450&lines=🔥+Welcome+to+KERM+XMD+🔥;🚀+The+most+powerful+WhatsApp+Bot!;💻+Developed+by+KGTECH+🇨🇲" alt="Typing SVG"></a>
 </p>
+
+---
+
 <p align="center">
-<a href="https://github.com/Kgtech-cmr"><img title="Author" src="https://img.shields.io/badge/KGTECH-black?style=for-the-badge&logo=Github"></a> <a href="https://chat.whatsapp.com/C7bA8NDFYiiJi9H4XA54Nc"><img title="Author" src="https://img.shields.io/badge/CHANNEL-black?style=for-the-badge&logo=whatsapp"></a> <a href="https://wa.me/237656520674?text=Hi+Kerm☺️"><img title="Author" src="https://img.shields.io/badge/CHAT US-black?style=for-the-badge&logo=whatsapp">
-<p/>
+<a href="https://github.com/Kgtech-cmr/"><img title="Followers" src="https://img.shields.io/github/followers/Kgtech-cmr?color=blue&style=flat-square"></a>
+<a href="https://github.com/Kgtech-cmr/KERM-XMD/stargazers"><img title="Stars" src="https://img.shields.io/github/stars/Kgtech-cmr/KERM-XMD?color=yellow&style=flat-square"></a>
+<a href="https://github.com/Kgtech-cmr/KERM-XMD/network/members"><img title="Forks" src="https://img.shields.io/github/forks/Kgtech-cmr/KERM-XMD?color=green&style=flat-square"></a>
+<a href="https://github.com/Kgtech-cmr/KERM-XMD/"><img title="Size" src="https://img.shields.io/github/repo-size/Kgtech-cmr/KERM-XMD?style=flat-square&color=red"></a>
+<a href="https://github.com/Kgtech-cmr/KERM-XMD/graphs/commit-activity"><img src="https://img.shields.io/badge/Maintenance-YES-green.svg"></a>
+</p>
 
- <p align="center">
-  <a href="https://kg-site-support.vercel.app/">
-    <img src="https://img.shields.io/badge/KG WEBSITE-000?style=for-the-badge&logo=vercel&logoColor=white" alt="Generate Session ID"/>
-  </a>
-   
+---
+
 <p align="center">
-<a href="https://github.com/Kgtech-cmr/KERM_MD-V2/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/Kgtech-cmr/KERM-MD_V2?color=white&style=flat-square"></a>
-<a href="https://github.com/Kgtech-cmr/KERM-MD_V2/network/members"><img title="Forks" src="https://img.shields.io/github/forks/Kgtech-cmr/KERM-MD_V2?color=yellow&style=flat-square"></a>
-<a href="https://github.com/Kgtech-cmr/KERM-MD_V2/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/Kgtech-cmr/KERM-MD_V2?label=Watchers&color=red&style=flat-square"></a>
-<a href="https://github.com/Janithsadanuwan/Queen-Nilu-Md/"><img title="Size" src="https://img.shields.io/github/repo-size/AlipBot/Api-Alpis?style=flat-square&color=darkred"></a>
-<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/Janithsadanuwan/Queen-Nilu-Md/%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=probot.svg&icon_color=%2304FF00&title=hits&edge_flat=false"/></a>
-        <a href = ""><img alt="KermHack Tools" src="https://img.shields.io/youtube/channel/subscribers/UCjDKRYcwd5ZIpGICcVVL96Q" target="_blank" /></a>
+  <img src="https://profile-counter.glitch.me/KERM-XMD/count.svg" alt="View Counter" /><br>
+  <strong>KERM XMD Users</strong>
+</p>
 
-### 1. FORK THIS REPO
+---
 
-<a href='https://github.com/Kgtech-cmr/KERM-MD_V2/fork' target="_blank"><img alt='Fork repo' src='https://img.shields.io/badge/Fork This Repo-black?style=for-the-badge&logo=git&logoColor=white'/></a>
 <p align="center">
+  <img src="https://media.giphy.com/media/3o7qE6Pnwep9LWrPtu/giphy.gif" width="400"/>
+</p>
 
-#### 𝐒𝐄𝐓𝐔𝐏
+---
 
+## 🔧 **QUICK SETUP - SESSION_ID** 🔧  
+👉 **Don't have a SESSION_ID? Get it here by entering your phone number with country code (e.g., +237xxxxxx).**
 
-1.𝐆𝐄𝐓 𝐒𝐄𝐒𝐒𝐈𝐎𝐍 𝐈𝐃 𝐅𝐑𝐎𝐌 𝐒𝐄𝐑𝐕𝐄𝐑
+- **SESSION 1**  
+[![GET SESSION ID:1](https://img.shields.io/badge/GET%20SESSION%20ID%3A1-1a1a1a?style=for-the-badge&logo=render)](https://pair-session-kermv4-pair.onrender.com)
 
-<a href="https://kgtech-v2-session.onrender.com/pair"><img src="https://img.shields.io/badge/PAIR_CODE-blue" alt="Click Here to Get Pair-Code" width="110"></a>   
+- **SESSION 2** *(if the first one doesn’t work)*  
+[![GET SESSION ID:2](https://img.shields.io/badge/GET%20SESSION%20ID%3A2-1a1a1a?style=for-the-badge&logo=render)](https://defiant-filippa-arol22-59efdacb.koyeb.app/)
 
-<a href="https://kgtech-v2-session.onrender.com/wasiqr"><img src="https://img.shields.io/badge/QR CODE-green" alt="Click Here to Get QR-Code" width="90"></a> 
+---
 
-## How To Deploy On Github.
-* [![YOUTUBE](https://img.shields.io/badge/HOW_TO_DEPLOY-red?style=for-the-badge&logo=youtube&logoColor=white)](https://youtu.be/T77rQM7Nk5k?si=gg-LJxS6vC6kBEpJ)
+## 🚀 **MAIN FEATURES**  
+- 📥 **Fast downloads**: media (logos, photos, videos, stickers)  
+- 🔍 **Instant search**: find accurate information online  
+- 🔒 **Enhanced security**: spam protection  
+- 🎮 **Interactive games**: enjoy games on WhatsApp  
+- 🤖 **Auto-replies**: customizable bot responses  
+- 💡 **Advanced automation**: simplify your WhatsApp tasks  
 
-• Create a new file [`.github/workflows/deploye.yml`] After created, copy this code👇🏽and paste it there
-```yml
-name: Node.js CI
+---
 
-on:
-  push:
-    branches:
-      - main
-  pull_request:
-    branches:
-      - main
-  schedule:
-    - cron: '0 */6 * * *'  # Relance toutes les 6 heures
+## 📂 **EASY DEPLOYMENT**
 
-jobs:
-  build:
+### ➤ **Deploy on Heroku**  
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new-app?template=https://github.com/Kgtech-cmr/KERM-XMD)
 
-    runs-on: ubuntu-latest
+### ➤ **Deploy on Replit**  
+[![Deploy on Replit](https://img.shields.io/badge/DEPLOY%20ON%20REPLIT-orange?style=for-the-badge&logo=replit)](https://repl.it/github/Kgtech-cmr/KERM-XMD)
 
-    strategy:
-      matrix:
-        node-version: [20.x]
+### ➤ **Other Deployment Methods**
+- [Talkdrove](https://host.talkdrove.com/dashboard/select-bot/prepare-deployment?botId=51)  
+- [Railway](https://railway.app/new)  
+- [Koyeb](https://app.koyeb.com/auth/signin)  
+- [Glitch](https://glitch.com/signup)  
+- [Render](https://dashboard.render.com)  
 
-    steps:
-    - name: Checkout repository
-      uses: actions/checkout@v3
+---
 
-    - name: Set up Node.js
-      uses: actions/setup-node@v3
-      with:
-        node-version: ${{ matrix.node-version }}
+## 🔥 **SUPPORT & ASSISTANCE**
+**Need help? Contact us on WhatsApp:**  
+[![WhatsApp](https://img.shields.io/badge/Whatsapp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/+237656520674?text=*Hi+Kerm!+I+need+help+with+KERM+XMD!*)
 
-    - name: Install dependencies
-      run: npm install
+---
 
-    - name: Install FFmpeg
-      run: sudo apt-get install -y ffmpeg
+## 📢 **STAY CONNECTED**
+Join our WhatsApp channel for updates:  
+[![WhatsApp Channel](https://img.shields.io/badge/WhatsApp%20Channel-red?style=for-the-badge&logo=whatsapp)](https://whatsapp.com/channel/0029Vafn6hc7DAX3fzsKtn45)
 
-    - name: Start application with timeout
-      run: |
-        timeout 21590s npm start  # Limite l'exécution à 5h 59m 50s
+Subscribe to our YouTube for tutorials:  
+[![YouTube](https://img.shields.io/badge/YouTube-KGTECH-blue?style=for-the-badge&logo=youtube)](https://youtube.com/@KermHackTools-s9s)
 
-    - name: Save state (Optional)
-      run: |
-        ./save_state.sh
-```
-#### DEPLOY TO HEROKU 
+---
 
-1. If You don't have a account in Heroku. Create a account.
-    <br>
-<a href='https://heroku.com' target="_blank"><img alt='Replit' src='https://img.shields.io/badge/-Create-black?style=for-the-badge&logo=heroku'/></a>
-   <br>
-2. Now Deploy
-    <br>
-<a href='https://heroku.com/deploy?template=https://github.com/Kgtech-cmr/KERM-MD_V2' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/-DEPLOY-black?style=for-the-badge&logo=heroku'/></a>
+## ⭐️ **THANK YOU FOR YOUR SUPPORT!**
+Thank you for using **KERM XMD**!  
+Don't forget to leave a **⭐️** on GitHub to support the project.  
+**KGTECH — Innovation & technology at your fingertips!** 🇨🇲
 
-#### DEPLOY TO KOYEB 
-
-1. If You don't have a account in koyeb. Create a account.
-    <br>
-<a href='https://app.koyeb.com/auth/signup' target="_blank"><img alt='koyeb' src='https://img.shields.io/badge/-Create-black?style=for-the-badge&logo=koyeb'/></a>
-
-2. Get [Koyeb api key](https://app.koyeb.com/account/api)
-
-4. Now Deploy
-    <br>
-<a href='https://app.koyeb.com/services/deploy?type=git&repository=https://github.com/Kgtech-cmr/KERM-MD_V2&branch=main&name=xbotmd&builder=dockerfile&env[SESSION_ID]=%20&env[WORK_TYPE]=private&env[HANDLER]=.&env[BOT_INFO]=KERM_MD-V2;ASWIN%20SPARKY;https://i.imgur.com/QH7T7u9.jpeg&env[SUDO]=237656520674,237650564445&env[STICKER_DATA]=KG TECH&env[DATABASE_URL]' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/-DEPLOY-black?style=for-the-badge&logo=koyeb'/></a>
-
-#### DEPLOY ON RAILWAY
-
-1. If You don't have a account in Railway. Create a account.
-    <br>
-<a href='https://railway.app' target="_blank"><img alt='Replit' src='https://img.shields.io/badge/-Create-black?style=for-the-badge&logo=railway'/>
-2. Now Deploy
-    <br>
-<a href='https://railway.app' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/-DEPLOY-black?style=for-the-badge&logo=railway'/></a>
-
-#### DEPLOY ON MOGENIUS
-
-1. If You don't have a account in Replit. Create a account.
-    <br>
-<a href='https://mogenius.com' target="_blank"><img alt='Replit' src='https://img.shields.io/badge/-Create-black?style=for-the-badge&logo=genius'/></a>
-2. Now Deploy
-    <br>
-<a href='https://mogenius.com' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/-DEPLOY-black?style=for-the-badge&logo=genius'/></a>
-
-  **Do not forget to give a star⭐️ please**
-
-### A special thank to
-
-<details close>
-<summary>Read More</summary>
-
-<br>
-
-* [`ARTHUR SASAKI`](https://github.com/Alp24ni)
-* ## Contact Dev of KERM🤪
-* [`RAYAN`](https://wa.me/237656520674?text=Hi+Bro+Rayan+Big+Fan😍)
-* [`GIFFARENO`](https://wa.me/237650564445?text=Hi+Bro+Giffareno+Big+Fan😍)
- </details>
- 
+---
