@@ -41,11 +41,11 @@
 ## 🔧 **QUICK SETUP - SESSION_ID** 🔧  
 👉 **Don't have a SESSION_ID? Get it here by entering your phone number with country code (e.g., +237xxxxxx).**
 
-- **SESSION 1**  
-[![GET SESSION ID:1](https://img.shields.io/badge/GET%20SESSION%20ID%3A1-1a1a1a?style=for-the-badge&logo=render)](https://pair-session-kermv4-pair.onrender.com)
+- **PAIR CODE**  
+[![GET SESSION ID: PAIR](https://img.shields.io/badge/GET%20SESSION%20ID%3A1-1a1a1a?style=for-the-badge&logo=render)](https://kgtech-v2-session.onrender.com/pair)
 
-- **SESSION 2** *(if the first one doesn’t work)*  
-[![GET SESSION ID:2](https://img.shields.io/badge/GET%20SESSION%20ID%3A2-1a1a1a?style=for-the-badge&logo=render)](https://defiant-filippa-arol22-59efdacb.koyeb.app/)
+- **QR SCAN**
+[![GET SESSION ID: QR SCAN](https://img.shields.io/badge/GET%20SESSION%20ID%3A2-1a1a1a?style=for-the-badge&logo=render)](https://kgtech-v2-session.onrender.com/wasiqr)
 
 ---
 
@@ -67,8 +67,18 @@
 ### ➤ **Deploy on Replit**  
 [![Deploy on Replit](https://img.shields.io/badge/DEPLOY%20ON%20REPLIT-orange?style=for-the-badge&logo=replit)](https://repl.it/github/Kgtech-cmr/KERM-XMD)
 
+### ➤ **DEPLOY_TALKDROVE**
+
+1. Create Account. 
+
+<a href='https://host.talkdrove.com/auth/signup?ref=8F67E98D' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/CREATE-ACCOUNT-h?color=navy&style=for-the-badge&logo=visualstudiocode'/></a></p>
+
+  2. Deploy Now. 
+
+<a href='https://host.talkdrove.com/dashboard/select-bot/prepare-deployment?botId=4' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/DEPLOY-NOW-h?color=navy&style=for-the-badge&logo=visualstudiocode'/></a></p>
+
+
 ### ➤ **Other Deployment Methods**
-- [Talkdrove](https://host.talkdrove.com/dashboard/select-bot/prepare-deployment?botId=51)  
 - [Railway](https://railway.app/new)  
 - [Koyeb](https://app.koyeb.com/auth/signin)  
 - [Glitch](https://glitch.com/signup)  
@@ -78,7 +88,7 @@
 
 ## 🔥 **SUPPORT & ASSISTANCE**
 **Need help? Contact us on WhatsApp:**  
-[![WhatsApp](https://img.shields.io/badge/Whatsapp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/+237656520674?text=*Hi+Kerm!+I+need+help+with+KERM+XMD!*)
+[![WhatsApp](https://img.shields.io/badge/Whatsapp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/+237659535227?text=*Hi+Kerm!+I+need+help+with+KERM+XMD!*)
 
 ---
 
