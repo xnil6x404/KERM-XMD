@@ -88,7 +88,7 @@ astro_patch.smd(
         categoryStart = '┌「'
         categoryEnd = '」'
         endLine = '*┃❍*'
-        footer = '└━━━━━━━━━━━━〤'
+        footer = '*┕──────────────❒*'
       } else if (
         header === 2 ||
         Config.menu.trim().startsWith('2') ||
@@ -100,7 +100,7 @@ astro_patch.smd(
         categoryStart = '┌〈'
         categoryEnd = '〉'
         endLine = '*┃❍* '
-        footer = '┃Ꙭ✰༅╚════════⋯⋯▷▷'
+        footer = '*┕──────────────❒*'
       } else {
         header = '*╭══〘〘' + Config.botname + '〙〙*'
         categorySymbol = '*┃❍*'
@@ -108,7 +108,7 @@ astro_patch.smd(
         categoryStart = '╭─❏'
         categoryEnd = '❏'
         endLine = '*┃❍*'
-        footer = '╰════════════════⊷'
+        footer = '*┕──────────────❒*'
       }
 
       const categorizedCommands = {}
