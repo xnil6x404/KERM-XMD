@@ -21,7 +21,7 @@ smd(
   {
     pattern: "menus",
     type: "MENU list",
-    info: "user",
+    category: "user",
     dontAddCommandList: true,
     react: "📜",
   },
