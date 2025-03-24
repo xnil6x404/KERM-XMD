@@ -35,7 +35,7 @@ smd(
 ➮Oᴡɴᴇʀ - ${Config.ownername} 
 ➮Nᴜᴍ - ${owner.split(",")[0]} 
 ➮Mᴇᴍᴏ - ${formatp(os.totalmem() - os.freemem())} 
-      \n *KERM_MD-V2 SIMPLE WHATSAPP BOT*\n\n ${readmore} 
+      \n *KERM-XMD SIMPLE WHATSAPP BOT*\n\n ${readmore} 
 ╭──❰༆𝐀𝐥𝐥 𝐌𝐞𝐧𝐮༆❱ 
 │🤖 Lɪꜱᴛ 
 │🤖 Cᴀᴛᴇɢᴏʀʏ 
@@ -194,14 +194,14 @@ astro_patch.smd(
     desc: "To check ping",
     category: "misc",
     filename: __filename,
-    react: "📈",
+    react: "📈,📊,📉",
   },
   async (message) => {
     var startTime = new Date().getTime();
-    const { key } = await message.reply("*Kerm_Md-V2 Ping!!!*");
+    const { key } = await message.reply("*Kerm Xmd..*");
     var endTime = new Date().getTime();
     return await message.send(
-      `*Pong*\n *${endTime - startTime} ms*`,
+      `*Pong*\n *${endTime - startTime} ms📍*`,
       {
         edit: key,
       },
@@ -224,7 +224,7 @@ astro_patch.cmd(
   async (message) => {
     try {
       message.reply(
-        `*_Uptime of KERM_MD-v2: ${runtime(process.uptime())}_*`
+        `*_Uptime of KERM-XMD: ${runtime(process.uptime())}_*`
       );
     } catch (error) {
       await message.error(error + "\n\ncommand : uptime", error, false);
