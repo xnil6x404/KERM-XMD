@@ -1,4 +1,4 @@
-{ cmd, commands } = require('../command'),
+const { cmd } = require("../lib/plugins");
   axios = require('axios'),
   fs = require('fs'),
   path = require('path'),
