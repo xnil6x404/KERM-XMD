@@ -48,6 +48,7 @@
         "crypto-digest-sync": "^1.0.0",
         "crypto-js": "latest",
         "dandi-api": "1.2.0",
+        "pg": "^8.11.4",
         "emoji-api": "3.0.1",
         "emoji-mixer": "1.0.33",
         "express": "latest",
