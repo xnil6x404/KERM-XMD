@@ -12,7 +12,7 @@ cmd(
     alias: ['imgtourl', 'imgurl', 'url'],
     react: '🔗',
     desc: 'Convert media to URL using catbox.moe API.',
-    category: 'anime',
+    category: 'general',
     use: '.maid',
     filename: __filename,
   },
