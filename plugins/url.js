@@ -6,14 +6,13 @@ const { cmd } = require("../lib/plugins");
   path = require('path'),
   mime = require('mime-types'),
 
-cmd(
+smd(
   {
-    pattern: 'tourl',
-    alias: ['imgtourl', 'imgurl', 'url'],
+    pattern: 'url',
+    alias: ['imgtourl', 'imgurl', 'tourl'],
     react: '🔗',
     desc: 'Convert media to URL using catbox.moe API.',
     category: 'general',
-    use: '.maid',
     filename: __filename,
   },
   async (
