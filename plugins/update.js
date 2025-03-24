@@ -10,7 +10,7 @@ cmd(
     alias: ['sync'],
     react: '🔄',
     desc: 'Update the bot to the latest version.',
-    category: 'admin',
+    category: 'tools',
     filename: __filename,
   },
   async (_0x2f42ed, _0xf65f6b, _0x42b29f, { from: sender, reply, isOwner }) => {
