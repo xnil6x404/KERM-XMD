@@ -194,7 +194,7 @@ astro_patch.smd(
     desc: "To check ping",
     category: "misc",
     filename: __filename,
-    react: "📈,📊,📉",
+    react: "📈",
   },
   async (message) => {
     var startTime = new Date().getTime();
