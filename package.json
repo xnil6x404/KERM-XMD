@@ -38,6 +38,7 @@
       "form-data": "^4.0.0",
       "fs-extra": "^11.2.0",
       "google-it": "^1.6.4",
+      "mime-types": "2.1.35",
       "google-tts-api": "^2.0.2",
       "heroku-client": "^3.2.0",
       "human-readable": "^0.2.1",
