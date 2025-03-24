@@ -6,7 +6,7 @@ const { cmd } = require("../lib/plugins");
   path = require('path'),
   mime = require('mime-types'),
 
-smd(
+cmd(
   {
     pattern: 'url',
     alias: ['imgtourl', 'imgurl', 'tourl'],
