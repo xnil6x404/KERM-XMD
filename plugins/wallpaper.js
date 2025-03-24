@@ -8,6 +8,7 @@ const Config = require("../config");
 smd(
     {
       pattern: "cat",
+      react: "🐱",
       category: "wallpaper",
       filename: __filename,
       desc: "Get a cat wallpaper.",
@@ -36,6 +37,7 @@ smd(
 smd(
     {
       pattern: "dog",
+      react: "🐶",
       category: "wallpaper",
       filename: __filename,
       desc: "Get a dog wallpaper.",
@@ -64,13 +66,15 @@ smd(
   smd(
     {
       pattern: "random",
+      alias: ["wallpaper", "rw"],
+      react: "🪅",
       category: "wallpaper",
       filename: __filename,
       desc: "Get a random wallpaper.",
     },
     async (m) => {
       try {
-        let apiUrl = "https://api.maher-zubair.tech/wallpaper/random";
+        let apiUrl = "https://pikabotzapi.vercel.app/random/randomwall/?apikey=anya-md";
         let response = await fetch(apiUrl);
         let jsonResponse = await response.json();
   
