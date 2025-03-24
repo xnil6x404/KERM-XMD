@@ -1,10 +1,10 @@
 const axios = require('axios');
 const { cmd } = require("../lib/plugins");
-  FormData = require('form-data'),
+const FormData = require('form-data'),
   fs = require('fs'),
   os = require('os'),
   path = require('path'),
-  mime = require('mime-types'),
+  mime = require('mime-types');
 
 cmd(
   {
@@ -18,14 +18,14 @@ cmd(
   async (
     message,
     text,
-    { from, quoted, reply }
+    { from, quoted }
   ) => {
     try {
       let mediaMessage = quoted ? quoted : text,
         mimeType = (mediaMessage.msg || mediaMessage).mimetype || ''
       
       if (!mimeType) {
-        throw '❌ *Error: Please reply to a media message.*'
+        return await message.reply('❌ *Error: Please reply to a media message.*')
       }
 
       let mediaBuffer = await mediaMessage.download()
@@ -49,21 +49,21 @@ cmd(
       uploadedUrl = response.data.trim()
 
       if (!uploadedUrl.startsWith('http')) {
-        throw '❌ *Error: Invalid response from catbox.moe API.*'
+        return await message.reply('❌ *Error: Invalid response from catbox.moe API.*')
       }
 
       fs.unlinkSync(tempFilePath)
       
       // Beautifying the response message
-      reply(
+      return await message.reply(
         `✨ *Upload Successful!* ✨\n\n` +
         `✅ *File Size:* ${mediaBuffer.length} Byte(s)\n` +
         `📤 *URL:* [Click here](${uploadedUrl})\n\n` +
         `> *Uploaded by Kᴇʀᴍ Xmd*\n`
       )
     } catch (error) {
-      reply('❌ *An error occurred:*\n' + error)
       console.error(error)
+      return await message.reply('❌ *An error occurred:*\n' + error)
     }
   }
 )
