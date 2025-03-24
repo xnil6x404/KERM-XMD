@@ -84,7 +84,7 @@ astro_patch.smd(
       ) {
         header = '*╭══〘〘' + Config.botname + '〙〙*'
         categorySymbol = '*┃❍*'
-        separator = '┗━━━━━━━━━━━━〤'
+        separator = '*╰═════════════════⊷*'
         categoryStart = '┌「'
         categoryEnd = '」'
         endLine = '*┃❍*'
@@ -96,7 +96,7 @@ astro_patch.smd(
       ) {
         header = '*╭══〘〘' + Config.botname + '〙〙*'
         categorySymbol = '*┃❍*'
-        separator = '╚═════════⋯⋯▷'
+        separator = '*╰═════════════════⊷*'
         categoryStart = '┌〈'
         categoryEnd = '〉'
         endLine = '*┃❍* '
@@ -104,7 +104,7 @@ astro_patch.smd(
       } else {
         header = '*╭══〘〘' + Config.botname + '〙〙*'
         categorySymbol = '*┃❍*'
-        separator = '╰════════════════⊷'
+        separator = '*╰═════════════════⊷*'
         categoryStart = '╭─❏'
         categoryEnd = '❏'
         endLine = '*┃❍*'
