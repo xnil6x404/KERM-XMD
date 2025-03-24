@@ -59,7 +59,7 @@ astro_patch.cmd(
     pattern: "setcmd",
     desc: "Set a new alias for an existing command or sticker",
     react: "⚙️",
-    category: "settings",
+    category: "tools",
     filename: __filename,
   },
   async (message, { text, isSticker, stickerData }) => {
