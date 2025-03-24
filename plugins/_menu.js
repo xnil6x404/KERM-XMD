@@ -134,7 +134,7 @@ astro_patch.smd(
         `${categorySymbol} *Usage Trend:* ${trend_usage}\n  ` +
         `${categorySymbol} *Database:* ${database_info}\n  ` +
         `${separator}\n                   𝒦ℯ𝓇𝓂-𝒳𝓂𝒹\n*───────────────────❒*\n` +
-        `|➡︎⭐ 2025 𝒦ℯ𝓇𝓂 & 𝒳𝓂𝒹✦\n──────────────────── ❉\n  \n${readmore}\n`
+        `|➡︎⭐ 2025 𝒦ℯ𝓇𝓂 & 𝒳𝓂𝒹✦\n───────────────── ❉\n  \n${readmore}\n`
 
       for (const category in categorizedCommands) {
         menuMessage += `${categoryStart} *${tiny(category)}* ${categoryEnd}\n`
