@@ -1,10 +1,10 @@
-const axios = require('axios'),
+const axios = require('axios');
+const { cmd } = require("../lib/plugins");
   FormData = require('form-data'),
   fs = require('fs'),
   os = require('os'),
   path = require('path'),
   mime = require('mime-types'),
- { cmd, commands } = require('../command');
 
 cmd(
   {
