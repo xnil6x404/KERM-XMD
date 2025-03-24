@@ -14,7 +14,7 @@ smd(
     },
     async (m) => {
       try {
-        let apiUrl = "https://api.maher-zubair.tech/wallpaper/cat";
+        let apiUrl = "https://api.thecatapi.com/v1/images/search";
         let response = await fetch(apiUrl);
         let jsonResponse = await response.json();
   
