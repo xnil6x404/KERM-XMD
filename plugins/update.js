@@ -1,10 +1,10 @@
-const { plugins, smd, Config } = require("../lib");
+{ cmd, commands } = require('../command'),
   axios = require('axios'),
   fs = require('fs'),
   path = require('path'),
   AdmZip = require('adm-zip');
 
-smd(
+cmd(
   {
     pattern: 'update',
     alias: ['sync'],
@@ -42,7 +42,7 @@ smd(
       zip.extractAllTo(extractDir, true);
 
       await reply('```🔄 Replacing files...```\n');
-      const extractedFolder = path.join(extractDir, 'KERM-MD-V1-main');
+      const extractedFolder = path.join(extractDir, 'KERM-XMD-main');
       const projectDir = path.join(__dirname, '..');
       copyFolderSync(extractedFolder, projectDir);
       fs.unlinkSync(zipFilePath);
