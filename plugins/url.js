@@ -4,9 +4,9 @@ const axios = require('axios'),
   os = require('os'),
   path = require('path'),
   mime = require('mime-types'),
- { plugins, smd, Config } = require("../lib");
+ { cmd, commands } = require('../command');
 
-smd(
+cmd(
   {
     pattern: 'tourl',
     alias: ['imgtourl', 'imgurl', 'url'],
