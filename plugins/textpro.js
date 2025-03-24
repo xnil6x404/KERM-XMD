@@ -51,6 +51,7 @@ smd(
   {
     cmdname: "glow",
     type: "deeapsea",
+    category: "textpro",
     info: "Some text to image feature with various styles.",
     filename: __filename,
   },
@@ -75,6 +76,7 @@ smd(
   {
     cmdname: "glitch",
     type: "deeapsea",
+    category: "textpro",
     info: "Some text to image feature with various styles.",
     filename: __filename,
   },
@@ -99,6 +101,7 @@ smd(
   {
     cmdname: "pixel",
     type: "deeapsea",
+    category: "textpro",
     info: "Some text to image feature with various styles.",
     filename: __filename,
   },
@@ -124,6 +127,7 @@ smd(
   {
     cmdname: "grafiti",
     type: "deeapsea",
+    category: "textpro",
     info: "Some text to image feature with various styles.",
     filename: __filename,
   },
@@ -149,6 +153,7 @@ smd(
   {
     cmdname: "grafiti2",
     type: "deeapsea",
+    category: "textpro",
     info: "Some text to image feature with various styles.",
     filename: __filename,
   },
@@ -176,6 +181,7 @@ smd(
   {
     cmdname: "grafiti3",
     type: "deeapsea",
+    category: "textpro",
     info: "Some text to image feature with various styles.",
     filename: __filename,
   },
@@ -204,6 +210,7 @@ smd(
   {
     cmdname: "grafiti4",
     type: "deeapsea",
+    category: "textpro",
     info: "Some text to image feature with various styles.",
     filename: __filename,
   },
@@ -234,6 +241,7 @@ smd(
   {
     cmdname: "gradient",
     type: "deeapsea",
+    category: "textpro",
     info: "Some text to image feature with various styles.",
     filename: __filename,
   },
@@ -264,6 +272,7 @@ smd(
   {
     cmdname: "wtone",
     type: "deeapsea",
+    category: "textpro",
     info: "Some text to image feature with various styles.",
     filename: __filename,
   },
@@ -295,6 +304,7 @@ smd(
   {
     cmdname: "phub",
     type: "deeapsea",
+    category: "textpro",
     info: "Some text to image feature with various styles.",
     filename: __filename,
   },
@@ -325,6 +335,7 @@ smd(
   {
     cmdname: "avenger",
     type: "deeapsea",
+    category: "textpro",
     info: "Some text to image feature with various styles.",
     filename: __filename,
   },
@@ -354,6 +365,7 @@ smd(
   {
     cmdname: "marvel",
     type: "deeapsea",
+    category: "textpro",
     info: "Some text to image feature with various styles.",
     filename: __filename,
   },
@@ -380,6 +392,7 @@ smd(
 smd({
      cmdname: "sea",
      type: "deepsea",
+     category: "textpro",
      info: "Some text to image feature with various styles.",
      filename: __filename
    }, async (_0x24125a, _0x4f77c0, {
@@ -397,6 +410,7 @@ smd({
    smd({
      cmdname: "horror",
      type: "deepsea",
+     category: "textpro",
      info: "Some text to image feature with various styles.",
      filename: __filename
    }, async (_0x22e0c1, _0x4b2154, {
@@ -414,6 +428,7 @@ smd({
    smd({
      cmdname: "whitebear",
      type: "deepsea",
+     category: "textpro",
      info: "Some text to image feature with various styles.",
      filename: __filename
    }, async (_0x42806c, _0x1d8c69, {
@@ -431,6 +446,7 @@ smd({
    smd({
      cmdname: "joker",
      type: "deepsea",
+     category: "textpro",
      info: "Some text to image feature with various styles.",
      filename: __filename
    }, async (_0x25bc1d, _0x216b18, {
@@ -448,6 +464,7 @@ smd({
    smd({
      cmdname: "metallic",
      type: "deepsea",
+     category: "textpro",
      info: "Some text to image feature with various styles.",
      filename: __filename
    }, async (_0x209bcb, _0x550f0a, {
@@ -465,6 +482,7 @@ smd({
    smd({
      cmdname: "steel",
      type: "deepsea",
+     category: "textpro",
      info: "Some text to image feature with various styles.",
      filename: __filename
    }, async (_0x287ddf, _0x2bf771, {
@@ -482,6 +500,7 @@ smd({
    smd({
      cmdname: "harrypotter",
      type: "deepsea",
+     category: "textpro",
      info: "Some text to image feature with various styles.",
      filename: __filename
    }, async (_0x1658cc, _0x217edf, {
@@ -499,6 +518,7 @@ smd({
    smd({
      cmdname: "underwater",
      type: "deepsea",
+     category: "textpro",
      info: "Some text to image feature with various styles.",
      filename: __filename
    }, async (_0x4db464, _0x2be604, {
@@ -516,6 +536,7 @@ smd({
    smd({
      cmdname: "luxury",
      type: "deepsea",
+     category: "textpro",
      info: "Some text to image feature with various styles.",
      filename: __filename
    }, async (_0x507353, _0x2e2993, {
@@ -533,6 +554,7 @@ smd({
    smd({
      cmdname: "glue",
      type: "deepsea",
+     category: "textpro",
      info: "Some text to image feature with various styles.",
      filename: __filename
    }, async (_0x106fc0, _0x9fed0e, {
@@ -550,6 +572,7 @@ smd({
    smd({
      cmdname: "fabric",
      type: "deepsea",
+     category: "textpro",
      info: "Some text to image feature with various styles.",
      filename: __filename
    }, async (_0x2c5e4d, _0x54dc94, {
@@ -567,6 +590,7 @@ smd({
    smd({
      cmdname: "toxic",
      type: "deepsea",
+     category: "textpro",
      info: "Some text to image feature with various styles.",
      filename: __filename
    }, async (_0xb24628, _0x1daf45, {
@@ -584,6 +608,7 @@ smd({
    smd({
      cmdname: "ancient",
      type: "deepsea",
+     category: "textpro",
      info: "Some text to image feature with various styles.",
      filename: __filename
    }, async (_0x19ea9c, _0x2712a3, {
@@ -601,6 +626,7 @@ smd({
    smd({
      cmdname: "cloud",
      type: "deepsea",
+     category: "textpro",
      info: "Some text to image feature with various styles.",
      filename: __filename
    }, async (_0x3580cc, _0x4759ef, {
@@ -618,6 +644,7 @@ smd({
    smd({
      cmdname: "transformer",
      type: "deepsea",
+     category: "textpro",
      info: "Some text to image feature with various styles.",
      filename: __filename
    }, async (_0x33543a, _0x550c65, {
@@ -635,6 +662,7 @@ smd({
    smd({
      cmdname: "thunder",
      type: "deepsea",
+     category: "textpro",
      info: "Some text to image feature with various styles.",
      filename: __filename
    }, async (_0x177d36, _0x30ff16, {
@@ -652,6 +680,7 @@ smd({
    smd({
      cmdname: "scifi",
      type: "deepsea",
+     category: "textpro",
      info: "Some text to image feature with various styles.",
      filename: __filename
    }, async (_0x1c1874, _0x2049f9, {
@@ -669,6 +698,7 @@ smd({
    smd({
      cmdname: "sand",
      type: "deepsea",
+     category: "textpro",
      info: "Some text to image feature with various styles.",
      filename: __filename
    }, async (_0x435d39, _0x3c787b, {
@@ -686,6 +716,7 @@ smd({
    smd({
      cmdname: "rainbow",
      type: "deepsea",
+     category: "textpro",
      info: "Some text to image feature with various styles.",
      filename: __filename
    }, async (_0x273636, _0x44fbfa, {
@@ -703,6 +734,7 @@ smd({
    smd({
      cmdname: "pencil",
      type: "deepsea",
+     category: "textpro",
      info: "Some text to image feature with various styles.",
      filename: __filename
    }, async (_0xf01fbd, _0x152a11, {
@@ -720,6 +752,7 @@ smd({
    smd({
      cmdname: "neon",
      type: "deepsea",
+     category: "textpro",
      info: "Some text to image feature with various styles.",
      filename: __filename
    }, async (_0x260877, _0x1b1b16, {
@@ -737,6 +770,7 @@ smd({
    smd({
      cmdname: "magma",
      type: "deepsea",
+     category: "textpro",
      info: "Some text to image feature with various styles.",
      filename: __filename
    }, async (_0x4d2f55, _0x49d874, {
@@ -754,6 +788,7 @@ smd({
    smd({
      cmdname: "leaves",
      type: "deepsea",
+     category: "textpro",
      info: "Some text to image feature with various styles.",
      filename: __filename
    }, async (_0x356d68, _0x474228, {
@@ -771,6 +806,7 @@ smd({
    smd({
      cmdname: "discovery",
      type: "deepsea",
+     category: "textpro",
      info: "Some text to image feature with various styles.",
      filename: __filename
    }, async (_0x5840f6, _0x1526fa, {
@@ -788,6 +824,7 @@ smd({
    smd({
      cmdname: "christmas",
      type: "deepsea",
+     category: "textpro",
      info: "Some text to image feature with various styles.",
      filename: __filename
    }, async (_0x2b9514, _0x537b5d, {
@@ -805,6 +842,7 @@ smd({
    smd({
      cmdname: "candy",
      type: "deepsea",
+     category: "textpro",
      info: "Some text to image feature with various styles.",
      filename: __filename
    }, async (_0x4a4e04, _0x195908, {
@@ -822,6 +860,7 @@ smd({
    smd({
      cmdname: "1917",
      type: "deepsea",
+     category: "textpro",
      info: "Some text to image feature with various styles.",
      filename: __filename
    }, async (_0x20b5a4, _0xde1750, {
