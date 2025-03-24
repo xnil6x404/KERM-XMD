@@ -18,12 +18,11 @@ smd({
   info: "Searches Stickers"
 }, async (message, searchTerm) => {
   try {
-    const { generateSticker } = require("../lib");
     if (!searchTerm) {
       return message.reply("Sorry you did not give any search term!");
     }
 
-    const response = await axios.get(`https://g.tenor.com/v1/search?q=${encodeURIComponent(searchTerm)}&key=LIVDSRZULELA&limit=8`).catch(() => {});
+    const response = await axios.get(`https://g.tenor.com/v1/search?q=${searchTerm}&key=LIVDSRZULELA&limit=8`).catch(() => {});
     if (!response.data || !response.data.results || !response.data.results[0]) {
       return message.reply("*Could not find!*");
     }
