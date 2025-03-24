@@ -6,7 +6,7 @@ const axios = require('axios'),
   mime = require('mime-types'),
  { plugins, smd, Config } = require("../lib");
 
-cmd(
+smd(
   {
     pattern: 'tourl',
     alias: ['imgtourl', 'imgurl', 'url'],
