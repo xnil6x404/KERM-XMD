@@ -5,6 +5,7 @@ let bgmm = false;
 smd(
   {
     pattern: 'antidelete',
+    react: "⛔️",
     alias: ['delete'],
     desc: 'Turn On/Off auto download deletes',
     fromMe: true,
@@ -65,7 +66,7 @@ smd({ on: 'delete' }, async (message, command, { store }) => {
           let fakeMessage = await message.bot.fakeMessage(
             'text',
             { id: message.msg.key.id },
-            '*[ANTIDELETE DETECTED]*'
+            '*⛔️[ANTIDELETE DETECTED]⛔️*'
           );
           
           let forwardedMessage = await message.bot.forwardOrBroadCast(
@@ -84,15 +85,15 @@ smd({ on: 'delete' }, async (message, command, { store }) => {
               /pm/gi.test(DELCHAT) ? message.user : message.from,
               {
                 text:
-                  '*[DELETED INFORMATION]*\n\n*TIME:* ' +
+                  '*❌[DELETED INFORMATION]❌*\n\n*🕦TIME:* ' +
                   message.time +
-                  '\n*CHAT:* ' +
+                  '\n*📝CHAT:* ' +
                   (await message.bot.getName(message.chat))
                     .split('\n')
                     .join('  ') +
-                  '\n*DELETED BY:* @' +
+                  '\n*🚫DELETED BY:* @' +
                   message.senderNum +
-                  '\n*MESSAGE FROM:* @' +
+                  '\n*📝MESSAGE FROM:* @' +
                   participant.split('@')[0],
                 mentions: [participant, message.sender],
               },
