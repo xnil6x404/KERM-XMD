@@ -42,7 +42,7 @@ smd(
     },
     async (m) => {
       try {
-        let apiUrl = "https://api.maher-zubair.tech/wallpaper/dog";
+        let apiUrl = "https://dog.ceo/api/breeds/image/random";
         let response = await fetch(apiUrl);
         let jsonResponse = await response.json();
   
