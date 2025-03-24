@@ -4,7 +4,7 @@ const { cmd } = require("../lib/plugins");
   path = require('path'),
   AdmZip = require('adm-zip');
 
-cmd(
+smd(
   {
     pattern: 'update',
     alias: ['sync'],
