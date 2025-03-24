@@ -83,31 +83,31 @@ astro_patch.smd(
         Config.menu.toLowerCase().includes('menu1')
       ) {
         header = '*╭══〘〘' + Config.botname + '〙〙*'
-        categorySymbol = '┃✰༅ ✗'
+        categorySymbol = '*┃❍*'
         separator = '┗━━━━━━━━━━━━〤'
         categoryStart = '┌「'
         categoryEnd = '」'
-        endLine = ' |\u263B︎ '
-        footer = '\n└━━━━━━━━━━━━〤'
+        endLine = '*┃❍*'
+        footer = '└━━━━━━━━━━━━〤'
       } else if (
         header === 2 ||
         Config.menu.trim().startsWith('2') ||
         Config.menu.toLowerCase().includes('menu2')
       ) {
         header = '*╭══〘〘' + Config.botname + '〙〙*'
-        categorySymbol = '¤┃✰༅▷'
+        categorySymbol = '*┃❍*'
         separator = '╚═════════⋯⋯▷'
         categoryStart = '┌〈'
         categoryEnd = '〉'
-        endLine = '¤┃✰༅▷ '
-        footer = '\n┃Ꙭ✰༅╚════════⋯⋯▷▷'
+        endLine = '*┃❍* '
+        footer = '┃Ꙭ✰༅╚════════⋯⋯▷▷'
       } else {
         header = '*╭══〘〘' + Config.botname + '〙〙*'
-        categorySymbol = '│ │'
+        categorySymbol = '*┃❍*'
         separator = '╰════════════════⊷'
         categoryStart = '╭─❏'
         categoryEnd = '❏'
-        endLine = '│✰༅'
+        endLine = '*┃❍*'
         footer = '╰════════════════⊷'
       }
 
