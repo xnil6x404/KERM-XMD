@@ -4,7 +4,7 @@ const axios = require('axios'),
   os = require('os'),
   path = require('path'),
   mime = require('mime-types'),
-  { cmd, commands } = require('../command')
+  { cmd } = require("../lib/plugins");
 
 cmd(
   {
